@@ -2,7 +2,7 @@ package stack;
 
 import java.util.Scanner;
 
-public class tsetMyStack {
+public class testMyStack {
 
 	public static void main(String[] args) {
 

@@ -1,4 +1,4 @@
-package stack;
+
 
 import java.util.Scanner;
 
@@ -20,7 +20,7 @@ public class testMyStack {
 					System.out.println("Enter val to Push");
 					stack.push(sc.nextInt());
 					break;
-				case 2:z
+				case 2:
 					stack.pop();
 					break;
 				case 3:

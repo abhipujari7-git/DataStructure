@@ -119,7 +119,7 @@ public class SinglyCircularLinkedList {
 			temp = trav;
 			trav = trav.next;
 		}
-		
+
 		System.out.println("-----");
 
 		temp.next = head;
